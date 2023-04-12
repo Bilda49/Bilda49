@@ -16,14 +16,14 @@
 <div id="about_me" align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-   
+<div>
 ### :man_technologist: About Me :
 - 🙋‍♂️ I am a highly motivated and enthusiastic Front End Developer with experience in creating projects. 
 - ⭐ My passion for technology and programming has led me to learn various programming languages 
 - 👨‍💻 I have hands-on experience working with React and Node.js. 
 - 🤵‍ I am committed to delivering high-quality work that meets client needs and exceeds their expectations.
 - 📫 <strong>How to reach me: </strong> <a href="mailto:pavlomatiushenko@gmail.com">My email</a>
-
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
@@ -36,3 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+   
+---
+   
+<div id = "stat">
