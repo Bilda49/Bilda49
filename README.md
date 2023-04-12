@@ -37,12 +37,8 @@
 </div>
    
 ---
-
-<div id = "stats" align="center">
   
 ### :fire: My Stats :
-  <br>
-</div>
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilda49&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
