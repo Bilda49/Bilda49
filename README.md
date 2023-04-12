@@ -21,4 +21,5 @@
 - 🙋‍♂️ I am a highly motivated and enthusiastic Front End Developer with experience in creating projects. 
 - ⭐ My passion for technology and programming has led me to learn various programming languages 
 - 👨‍💻 I have hands-on experience working with React and Node.js. 
-- 🤵‍I am committed to delivering high-quality work that meets client needs and exceeds their expectations.
+- 🤵‍ I am committed to delivering high-quality work that meets client needs and exceeds their expectations.
+- 📫 How to reach me:
