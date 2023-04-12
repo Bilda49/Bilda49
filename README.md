@@ -18,12 +18,7 @@
 </div>
    
 ### :man_technologist: About Me :
-I am a highly motivated and enthusiastic Front End
-Developer with experience in creating projects. My
-passion for technology and programming has led me
-to learn various programming languages such as
-Python, JavaScript, HTML, and CSS. In addition, I
-have hands-on experience working with React and
-Node.js. I am committed to delivering high-quality
-work that meets client needs and exceeds their
-expectations.
+- :telescope: I am a highly motivated and enthusiastic Front End Developer with experience in creating projects. 
+- :seedling: My passion for technology and programming has led me to learn various programming languages s
+- :zap: I have hands-on experience working with React and Node.js. 
+I am committed to delivering high-quality work that meets client needs and exceeds their expectations.
