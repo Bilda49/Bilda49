@@ -22,4 +22,4 @@
 - ⭐ My passion for technology and programming has led me to learn various programming languages 
 - 👨‍💻 I have hands-on experience working with React and Node.js. 
 - 🤵‍ I am committed to delivering high-quality work that meets client needs and exceeds their expectations.
-- 📫 How to reach me:
+- 📫 How to reach me: <a href="mailto:pavlomatiushenko@gmail.com">My email</a>
