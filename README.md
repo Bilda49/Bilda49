@@ -49,7 +49,7 @@
    
 ### 🖥️ My Projects :
    
-#🥧  API recipe website 
+# 🥧API recipe website 
 
 <strong>Netlify : </strong> https://kitchen-genius.netlify.app
 <br>
@@ -58,7 +58,7 @@
 <br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2YzVhN2YzMDY5NzUxZWIwZTI0MTRhZjJkODdhODA5ZWNkMmRmYyZjdD1n/GfscHKhYnYB0GZeo5k/giphy.gif" width="600" height="300"/>
 
-# 🥧API recipe website
+# 🥧Rick and Morty universe
    
  <strong>Netlify : </strong> https://rick-and-morty-api-projectt.netlify.app
    <br>
