@@ -51,7 +51,7 @@
    
 # 🥧API recipe website 
 
-🌏<strong>Website : </strong> https://kitchen-genius.netlify.app
+<strong>🌏Website : </strong> https://kitchen-genius.netlify.app
 <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/final_project_API
 <br>
@@ -62,7 +62,7 @@
    
 # 🪐Rick and Morty universe
    
- 🌏<strong>Website : </strong> https://rick-and-morty-api-projectt.netlify.app
+ <strong>🌏Website : </strong> https://rick-and-morty-api-projectt.netlify.app
    <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/API_project
 <br>
@@ -82,7 +82,7 @@
    
 # 🎵Drumkit Project
 
-🌏<strong>Website : </strong> https://bilda49.github.io/drumkit/
+<strong>🌏Website : </strong> https://bilda49.github.io/drumkit/
    
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/drumkit
 <br>
@@ -93,7 +93,7 @@
    
 # 🗒️To-Do List
 
-🌏<strong>Website : </strong> https://to-do-list-pavlo.netlify.app
+<strong>🌏Website : </strong> https://to-do-list-pavlo.netlify.app
    
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/to-do-list
 <br>
@@ -104,7 +104,7 @@
    
 # 🕐Digital Clock
 
-🌏<strong>Website : </strong> https://bilda49.github.io/clock/
+<strong>🌏Website : </strong> https://bilda49.github.io/clock/
    
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/clock
 <br>
