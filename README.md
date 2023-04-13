@@ -60,7 +60,7 @@
 
 # 
    
-# 🥧Rick and Morty universe
+# 🪐Rick and Morty universe
    
  <strong>Website : </strong> https://rick-and-morty-api-projectt.netlify.app
    <br>
@@ -71,7 +71,7 @@
    
 #
    
-# 🥧OOP JS console game
+# 🎮OOP JS console game
    
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/java_script_testing_project
 <br>
@@ -80,7 +80,7 @@
    
 #
    
-# 🥧Drumkit Project
+# 🎵Drumkit Project
 
 <strong>Website : </strong> https://bilda49.github.io/drumkit/
    
@@ -91,11 +91,23 @@
    
 #
    
-# 🥧To-Do List
+# 🗒️To-Do List
 
-<strong>Website : </strong> to-do-list-pavlo.netlify.app
+<strong>Website : </strong> https://to-do-list-pavlo.netlify.app
    
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/to-do-list
 <br>
 <br>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUzM2Y3MTlkZDFjMTUyMzQ1MmRhN2RmZjY4NWJiODk5YzNmNTdhYyZjdD1n/hRJIFPKpuMB4pswz3q/giphy.gif" width="500" height="250"/>
+
+#
+   
+# 🕐Digital Clock
+
+<strong>Website : </strong> https://bilda49.github.io/clock/
+   
+🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/clock
+<br>
+<br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYzN2JmNDc2ZGZiZThmYjlmMzFiMzEzMzY1ZWEzNTkxMDhkYzUwYSZjdD1n/hLBxmtywRbT4MnYOpn/giphy.gif" width="500" height="250"/>
+
