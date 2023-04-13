@@ -51,7 +51,7 @@
    
 # 🥧API recipe website 
 
-<strong>Netlify : </strong> https://kitchen-genius.netlify.app
+<strong>Website : </strong> https://kitchen-genius.netlify.app
 <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/final_project_API
 <br>
@@ -62,7 +62,7 @@
    
 # 🥧Rick and Morty universe
    
- <strong>Netlify : </strong> https://rick-and-morty-api-projectt.netlify.app
+ <strong>Website : </strong> https://rick-and-morty-api-projectt.netlify.app
    <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/API_project
 <br>
@@ -81,8 +81,21 @@
 #
    
 # 🥧Drumkit Project
+
+<strong>Website : </strong> https://bilda49.github.io/drumkit/
    
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/drumkit
 <br>
 <br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIwODMzZWRhZjBkNTY2ZDM5MzU2NWI2OTQyMWIxMDU5NzdlY2VkNSZjdD1n/PDCBvcXtUgyUUvkz8K/giphy.gif" width="500" height="250"/>
+   
+#
+   
+# 🥧To-Do List
+
+<strong>Website : </strong> to-do-list-pavlo.netlify.app
+   
+🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/to-do-list
+<br>
+<br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUzM2Y3MTlkZDFjMTUyMzQ1MmRhN2RmZjY4NWJiODk5YzNmNTdhYyZjdD1n/hRJIFPKpuMB4pswz3q/giphy.gif" width="500" height="250"/>
