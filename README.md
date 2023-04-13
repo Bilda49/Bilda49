@@ -65,4 +65,4 @@
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/final_project_API
 <br>
 <br>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2YzVhN2YzMDY5NzUxZWIwZTI0MTRhZjJkODdhODA5ZWNkMmRmYyZjdD1n/GfscHKhYnYB0GZeo5k/giphy.gif" width="600" height="300"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIzMTY0ZDA1NzdhNGZkMDU3ODU1MDE3YmM4MGRlNDA0ZGU4ZjQxNiZjdD1n/IcpZvC6uZ2H8nN39m4/giphy.gif" width="600" height="300"/>
