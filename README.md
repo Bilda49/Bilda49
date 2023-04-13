@@ -51,7 +51,7 @@
 
 🥧 <strong> API recipe website : </strong> https://kitchen-genius.netlify.app
    <br>
-   <strong> Link to my repository : </strong> [https://kitchen-genius.netlify.app](https://github.com/Bilda49/final_project_API)
+   <strong> Link to repository : </strong> [https://kitchen-genius.netlify.app](https://github.com/Bilda49/final_project_API)
 <br>
 <br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2YzVhN2YzMDY5NzUxZWIwZTI0MTRhZjJkODdhODA5ZWNkMmRmYyZjdD1n/GfscHKhYnYB0GZeo5k/giphy.gif" width="600" height="300"/>
