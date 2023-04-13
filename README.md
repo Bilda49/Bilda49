@@ -47,4 +47,4 @@
 
 ### 🖥️ My Projects :
 
-🥧 <strong> API recipe website : </strong> https://kitchen-genius.netlify.app сделать видео сайта и вставить сюда
+🥧 <strong> API recipe website : </strong> https://kitchen-genius.netlify.app
