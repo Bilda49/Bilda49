@@ -60,7 +60,7 @@
 
 #
    
-🥧 <strong> API recipe website : </strong> https://kitchen-genius.netlify.app
+🥧 <strong> API recipe website : </strong> https://rick-and-morty-api-projectt.netlify.app
    <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/final_project_API
 <br>
