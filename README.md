@@ -50,8 +50,11 @@
 ### 🖥️ My Projects :
    
 #
+   
 
-🥧 <strong> API recipe website : </strong> https://kitchen-genius.netlify.app
+#🥧  API recipe website 
+   <br>
+   <strong>Netlify</strong> : https://kitchen-genius.netlify.app
    <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/final_project_API
 <br>
