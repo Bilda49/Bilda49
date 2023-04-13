@@ -53,6 +53,7 @@
    
 
 #🥧  API recipe website 
+   
    <br>
    <strong>Netlify</strong> : https://kitchen-genius.netlify.app
    <br>
@@ -61,9 +62,9 @@
 <br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2YzVhN2YzMDY5NzUxZWIwZTI0MTRhZjJkODdhODA5ZWNkMmRmYyZjdD1n/GfscHKhYnYB0GZeo5k/giphy.gif" width="600" height="300"/>
 
-#
+# 🥧API recipe website
    
-🥧 <strong> API recipe website : </strong> https://rick-and-morty-api-projectt.netlify.app
+ <strong>Netlify : </strong> https://rick-and-morty-api-projectt.netlify.app
    <br>
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/API_project
 <br>
