@@ -71,4 +71,9 @@
    
 #
    
- 
+# 🥧OOP JS console game
+   
+🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/java_script_testing_project
+<br>
+<br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc0ZTliMjQxOTc0ZTM2NTJiNzA2NzMxNWI1NzY1Y2QyOTEyOTlmZiZjdD1n/E5Q9NxBbSL0C7L7WNX/giphy.gif" width="600" height="300"/>
