@@ -49,7 +49,7 @@
    
 ### 🖥️ My Projects :
    
-# 🥧API recipe website 
+# 🥧API recipe website (OLD)
 
 <strong>🌏Website : </strong> https://kitchen-genius.netlify.app
 <br>
@@ -57,6 +57,17 @@
 <br>
 <br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2YzVhN2YzMDY5NzUxZWIwZTI0MTRhZjJkODdhODA5ZWNkMmRmYyZjdD1n/GfscHKhYnYB0GZeo5k/giphy.gif" width="500" height="250"/>
+
+# 
+
+# 🥧API recipe website (REMAKE)
+
+<strong>🌏Website : </strong> https://kitchen-genius-remake.netlify.app
+<br>
+🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/kitchen-genius-remake
+<br>
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lnMzhwaGZxaTJ0NGhzc3J1Y2lpODQ4Nmc3aWdyNzNmNWp2ZG5yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBBuus4lNB2KOHkcfT/giphy-downsized-large.gif" width="500" height="250"/>
 
 # 
    
