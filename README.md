@@ -56,7 +56,7 @@
 🔗  <strong> Link to repository : </strong> https://github.com/Bilda49/kitchen-genius-remake
 <br>
 <br>
-<img src="http://d.zaix.ru/BVPx.gif" width="500" height="250"/>
+<img src="React App - Google Chrome 2023-09-13 22-03-30.gif" width="500" height="250"/>
 
 # 
    
